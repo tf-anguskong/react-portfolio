@@ -29,15 +29,8 @@
   },
   "main": "index.js",
   "devDependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/tf-anguskong/react-portfolio.git"
-  },
   "author": "Tyler Fleming",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/tf-anguskong/react-portfolio/issues"
-  },
-  "homepage": "https://github.com/tf-anguskong/react-portfolio#readme",
+  "homepage": "",
   "description": ""
 }
