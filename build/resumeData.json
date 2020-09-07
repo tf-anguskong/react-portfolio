@@ -1,0 +1,127 @@
+{
+  "main": {
+    "name": "Tyler Fleming",
+    "occupation": "Network Systems Analyst and Avid Learner",
+    "description": "I work day in and day out with Windows and Linux services and Datacenter Operations. I am also learning Web Development for fun.",
+    "image": "ProfilePicture.jpeg",
+    "bio": "My name is Tyler, I am currently working full-time as a Systems Administrator by day. By night I am working on my own projects and exploring Web Development.",
+    "contactmessage": "Get in touch with me ",
+    "email": "tyler@fleming.systems",
+    "phone": "+1 425 395 8553",
+    "address": {
+      "street": "",
+      "city": "Issaquah",
+      "state": "WA",
+      "zip": "98029"
+    },
+    "website": "https://fleming.systems",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/tyler.r.fleming",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/trfleming3745/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/tf-anguskong",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Bellevue College",
+        "degree": "Associates in Arts and Sciences; pursuing Bachelors in Cybersecurity",
+        "graduated": "Associates - 2018, Bachelors - 2021",
+        "description": "Still ongoing with my Cybersecurity education"
+      }
+    ],
+    "work": [
+      {
+        "company": "US Army",
+        "title": "Nodal Network Systems Operator + Maintainer",
+        "years": "May 2011 - May 2016",
+        "description": "Phone System Administration, Radio and Satelite Communications, Team Leader"
+      },
+      {
+        "company": "Affirma Consulting",
+        "title": "Infrastructure Consultant",
+        "years": "May 2016 - Sept 2017",
+        "description": "Worked on various infrastructure projects ranging from remote site connectivity projects via DMVPN to Exchange migrations to Exchange Online"
+      },
+      {
+        "company": "NAES",
+        "title": "Tier 2 Help Desk",
+        "years": "Sept 2017 - January 2019",
+        "description": "Tier 2 Help Desk support for the enterprise, also helped manage Microsoft SCCM and Office 365"
+      },
+      {
+        "company": "Charlie's Produce",
+        "title": "Network Systems Analyst",
+        "years": "January 2019 - Current",
+        "description": "Managing Phone Systems, Vendor Relations, Windows and Linux Services, etc. I can go on and on. "
+      }
+    ],
+    "skills": [
+      {
+        "name": "Windows Server",
+        "level": "100%"
+      },
+      {
+        "name": "Powershell Automation",
+        "level": "85%"
+      },
+      {
+        "name": "Source Control - Git",
+        "level": "50%"
+      },
+      {
+        "name": "Linux",
+        "level": "75%"
+      },
+      {
+        "name": "Microsoft's Azure",
+        "level": "80%"
+      },
+      {
+        "name": "Office 365",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Fleming Systems LLC",
+        "category": "My own freelancing services, Windows and Linux Services. PBX services. I also create blog posts on certain things that I want to reference back to",
+        "image": "MediumBanner.png",
+        "url": "https://fleming.systems"
+      },
+      {
+        "title": "Polidium",
+        "category": "Why I'm learning React. I want this to be THE spot to find UNBIASED political information. This is VERY much a work in progress",
+        "image": "Polidium.png",
+        "url": "https://polidium.tv"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Tyler is the one person on my team I can count on to not only get the job done; but get it done correctly.",
+        "user": "Clayton Stephenson"
+      },
+      {
+        "text": "Tyler has always shown passion for technology, and can absorb new topics quickly and effectively. Making him an extremely flexible IT professional.",
+        "user": "Nic Holmes"
+      }
+    ]
+  }
+}

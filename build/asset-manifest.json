@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tf-anguskong/react-portfoliostatic/css/main.5facb584.chunk.css",
+    "main.js": "/tf-anguskong/react-portfoliostatic/js/main.9afa35d9.chunk.js",
+    "main.js.map": "/tf-anguskong/react-portfoliostatic/js/main.9afa35d9.chunk.js.map",
+    "runtime-main.js": "/tf-anguskong/react-portfoliostatic/js/runtime-main.e075101a.js",
+    "runtime-main.js.map": "/tf-anguskong/react-portfoliostatic/js/runtime-main.e075101a.js.map",
+    "static/js/2.3ef2d018.chunk.js": "/tf-anguskong/react-portfoliostatic/js/2.3ef2d018.chunk.js",
+    "static/js/2.3ef2d018.chunk.js.map": "/tf-anguskong/react-portfoliostatic/js/2.3ef2d018.chunk.js.map",
+    "index.html": "/tf-anguskong/react-portfolioindex.html",
+    "precache-manifest.d50485d93fc10c0b92c83905b7caa04c.js": "/tf-anguskong/react-portfolioprecache-manifest.d50485d93fc10c0b92c83905b7caa04c.js",
+    "service-worker.js": "/tf-anguskong/react-portfolioservice-worker.js",
+    "static/css/main.5facb584.chunk.css.map": "/tf-anguskong/react-portfoliostatic/css/main.5facb584.chunk.css.map",
+    "static/js/2.3ef2d018.chunk.js.LICENSE.txt": "/tf-anguskong/react-portfoliostatic/js/2.3ef2d018.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e075101a.js",
+    "static/js/2.3ef2d018.chunk.js",
+    "static/css/main.5facb584.chunk.css",
+    "static/js/main.9afa35d9.chunk.js"
+  ]
+}
