@@ -79,6 +79,14 @@
         "level": "85%"
       },
       {
+        "name": "Docker",
+        "level": "50%"
+      },
+      {
+        "name": "Kubernetes",
+        "level": "50%"
+      },
+      {
         "name": "Source Control - Git",
         "level": "50%"
       },

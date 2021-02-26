@@ -2,17 +2,17 @@
   "main": {
     "name": "Tyler Fleming",
     "occupation": "Network Systems Analyst and Avid Learner",
-    "description": "I work day in and day out with Windows and Linux services and Datacenter Operations. I am also learning Web Development for fun.",
+    "description": "I work day in and day out with Windows and Linux services and Datacenter Operations.",
     "image": "ProfilePicture.jpeg",
-    "bio": "My name is Tyler, I am currently working full-time as a Systems Administrator by day. By night I am working on my own projects and exploring Web Development.",
+    "bio": "I am currently working full-time at Charlie's Produce as a Network Systems Analyst by day. By night I am working towards my degree in Cybersecurity from Bellevue College and am a father of three children. I also like to spend time learning new technologies, which has lately been Docker, Kubernetes, and BlockChain.",
     "contactmessage": "Get in touch with me ",
     "email": "tyler@fleming.systems",
-    "phone": "+1 425 395 8553",
+    "phone": "+1 206 307 6815",
     "address": {
       "street": "",
       "city": "Issaquah",
       "state": "WA",
-      "zip": "98029"
+      "zip": ""
     },
     "website": "https://fleming.systems",
     "social": [
